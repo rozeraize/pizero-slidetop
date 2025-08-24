@@ -1,8 +1,7 @@
 # pizero-slidetop
 A more compact slidetop with the Orange Pi Zero 2 W.
 
-This obviously will not come with the features of my original slidetop such as a camera module or an NVMe slot, but it wil be less power hungry.
-
+This obviously will not come with the features of my original slidetop such as a camera module or an NVMe slot, but it wil be less power hungry. I am also changing the sliding hinge design to one that is more simular to the hinge design found in this video 'https://www.youtube.com/watch?v=jntHraUABHo'.
 # WARNING
 This is still under development and its not even under the beta prototype testing phase of the project. I will once again update the CAD files as I work on this and hopefully make proper documentation in the near future.
 
